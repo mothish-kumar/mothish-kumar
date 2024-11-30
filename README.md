@@ -2,7 +2,7 @@
 
 Full Stack Web Developer
 <img align="right" width="320" height="290" alt="Image" src="https://img.freepik.com/premium-photo/happy-3d-cartoon-man-using-laptop-siting-transparent-white-background_973886-109.jpg">
-- 🔭 Here's my [portfolio](https://mothish-kumar-portfolio.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://mothish-kumar-portfolio.web.app/){:target="_blank"}                                                 
 - 🌱 I’m currently learning MERN Stack
 - 🤔 I’m looking for job
 - 📫 How to reach me :
